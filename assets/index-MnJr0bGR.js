@@ -1,1 +1,0 @@
-import{j as e}from"./index-DLfxHKKJ.js";const n="_content_c2vrh_1",s="_transform_c2vrh_6",r="_element_c2vrh_12",t={content:n,transform:s,element:r};function a(){return e.jsx(e.Fragment,{children:e.jsx("div",{className:t.content,children:e.jsx("div",{className:t.transform,children:e.jsx("div",{className:t.element,children:"translate"})})})})}export{a as default};
