@@ -1,1 +1,0 @@
-import{j as n}from"./index-QSxszM5e.js";const s="_container_ykai3_2",t="_body_ykai3_12",o={container:s,body:t};function e(){return n.jsx("div",{className:o.container,children:n.jsx("div",{className:o.body})})}export{e as default};

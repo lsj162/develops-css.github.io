@@ -1,1 +1,0 @@
-import{j as s}from"./index-QSxszM5e.js";const t="_sticky_6m9q0_1",c={sticky:t};function e(){return s.jsx(s.Fragment,{children:s.jsx("div",{className:c.sticky,children:"sticky"})})}export{e as default};
