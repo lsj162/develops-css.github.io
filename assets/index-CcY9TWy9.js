@@ -1,1 +1,0 @@
-import{j as n}from"./index-DPWjbiPu.js";const s="_container_2kum0_2",t="_body_2kum0_12",o={container:s,body:t};function a(){return n.jsx("div",{className:o.container,children:n.jsx("div",{className:o.body})})}export{a as default};
