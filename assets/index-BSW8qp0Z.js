@@ -1,1 +1,0 @@
-import{j as s}from"./index-D99FKqtN.js";const a="_rabbit_1oddk_1",o="_clouds_1oddk_50",t={"rabbit-box":"_rabbit-box_1oddk_1",rabbit:a,clouds:o};function d(){return s.jsx(s.Fragment,{children:s.jsxs("div",{className:t["rabbit-box"],children:[s.jsx("div",{className:t.rabbit}),s.jsx("div",{className:t.clouds})]})})}export{d as default};

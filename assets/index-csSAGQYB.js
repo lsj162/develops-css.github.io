@@ -1,1 +1,0 @@
-import{j as s}from"./index-D99FKqtN.js";const c="_sticky_12l4n_1",n="_action1_12l4n_9",i="_action2_12l4n_14",t={sticky:c,action1:n,action2:i};function o(){return s.jsxs(s.Fragment,{children:[s.jsx("div",{className:t.action1}),s.jsx("div",{className:t.sticky,children:"sticky"}),s.jsx("div",{className:t.action2})]})}export{o as default};

@@ -1,0 +1,1 @@
+import{j as s}from"./index-B5QjSDPG.js";const t="_ball_yemuo_7",e={ball:t};function a(){return s.jsxs(s.Fragment,{children:[s.jsx("svg",{width:"300px",height:"175px",version:"1.1",children:s.jsx("path",{fill:"transparent",stroke:"#888888",strokeWidth:"1",d:"M10 80 Q 7.5 1, 145 80 T 280 80"})}),s.jsx("div",{className:e.ball})]})}export{a as default};
