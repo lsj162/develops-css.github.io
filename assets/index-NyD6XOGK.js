@@ -1,0 +1,1 @@
+import{j as i}from"./index-D99FKqtN.js";const t="_fixed_mbqvp_1",a="_action1_mbqvp_9",n="_action2_mbqvp_14",s={fixed:t,action1:a,action2:n};function e(){return i.jsxs(i.Fragment,{children:[i.jsx("div",{className:s.action1}),i.jsx("div",{className:s.fixed,children:"fixed"}),i.jsx("div",{className:s.action2})]})}export{e as default};
