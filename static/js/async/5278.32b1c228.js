@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([["5278"],{7815:function(e,n,t){t.r(n),t.d(n,{default:()=>p});var r=t(4132);let p=function(){return(0,r.jsx)(r.Fragment,{children:(0,r.jsx)("h1",{children:"pointer-events"})})}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([["5397"],{3156:function(n,e,s){s.r(e),s.d(e,{default:()=>a});var t=s(4132);let r=function(){return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)("div",{className:"bitmap-AIZndt"})})},a=function(){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)("h1",{children:"边框图片"}),(0,t.jsx)(r,{})]})}}}]);

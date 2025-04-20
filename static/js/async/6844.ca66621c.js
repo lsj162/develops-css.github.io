@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([["6844"],{687:function(e,a,s){s.r(a),s.d(a,{default:()=>c});var n=s(4132);let c=function(){return(0,n.jsx)("div",{className:"container-yioFJA",children:(0,n.jsx)("div",{className:"body-EpGvAg"})})}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([["5100"],{3378:function(e,a,n){n.r(a),n.d(a,{default:()=>s});var t=n(4132);let s=function(){return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)("div",{className:"triangle-tKYDxB"})})}}}]);
