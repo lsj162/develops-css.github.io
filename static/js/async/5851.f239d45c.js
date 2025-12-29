@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([["5851"],{52:function(e,s,a){a.r(s),a.d(s,{default:()=>i});var d=a(4132);let i=function(){return(0,d.jsxs)(d.Fragment,{children:[(0,d.jsx)("h1",{children:"fixed"}),(0,d.jsx)("div",{className:"flex-vjXjaw",children:(0,d.jsx)("div",{className:"fixed-FrsyGd",children:"fixed"})})]})}}}]);
